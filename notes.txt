@@ -1,3 +1,9 @@
 pip install -r requirements.txt
+pip3 freeze > requirements.txt
 python3 manage.py makemigrations
- python3 manage.py migrate
+python3 manage.py migrate
+python3 manage.py runserver
+
+menuadmin2112!
+
+Admin Site Part 2
